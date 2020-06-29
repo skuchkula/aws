@@ -8,7 +8,7 @@
 ![](images/dynamodb3.png)
 
 ## Cognito
-![](images/cognito1.PNG)
+![](images/Cognito1.PNG)
 
 **Cognito Links**:
 * [FAQs](https://aws.amazon.com/cognito/faqs/)
