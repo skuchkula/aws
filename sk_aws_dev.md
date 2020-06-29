@@ -13,9 +13,9 @@
 **Cognito Links**:
 * [FAQs](https://aws.amazon.com/cognito/faqs/)
 
+## VPC questions
 
-
-## new
+![](images/vpc1.png)
 
 
 ```python
