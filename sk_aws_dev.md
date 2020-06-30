@@ -32,6 +32,8 @@
 
 ![](images/api_gateway1.png)
 
+![](images/api_gateway2.png)
+
 ## AWS Lambda questions
 
 ![](images/aws_lambda1.png)
@@ -39,6 +41,10 @@
 * [Scaling Lambda functions](https://serverless.zone/my-accidental-3-5x-speed-increase-of-aws-lambda-functions-6d95351197f3)
 
 ![](images/aws_lambda2.png)
+
+**Controversial**:
+
+![](images/aws_lambda4.png)
 
 ### AWS Lambda security questions
 
@@ -57,5 +63,29 @@
 ## AWS EBS
 
 ![](images/aws_ebs1.png)
+
+## AWS S3
+
+![](images/aws_s3_caching.png)
+
+## AWS ECS
+
+![](images/aws_ecs1.png)
+
+## Bullshit questions
+
+![](images/bullshit1.png)
+
+[Reference: Deliver Content Faster](https://aws.amazon.com/getting-started/hands-on/deliver-content-faster/)
+
+![](images/bullshit2.png)
+
+## AWS Security
+![](images/aws_security.png)
+
+[Delegate Access Across AWS Accounts Using IAM Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
+
+![](images/aws_security2.png)
+
 
 
